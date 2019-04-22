@@ -1,0 +1,15 @@
+  <<!-- Edres
+Genre: First person party-based RPG, Action RPG
+Studio: Activision
+
+Irfan
+Genre: Simulation, Sports
+Studio: EA
+
+Nazrul
+Genre: Moba, Fighting
+Studio: Valve Corporation
+Khairul
+Genre: Platform Games, Metroidvania Games
+Studio: CD PROJEKT -->
+>
